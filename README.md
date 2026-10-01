@@ -1,9 +1,5 @@
 # PHP Practice
 
-## Deskripsi
-
-Repository ini berisi kumpulan kode PHP yang dibuat sebagai bagian dari pembelajaran dan praktikum Pemrograman Aplikasi Berbasis Internet (PABI).
-
 ## Daftar Kode
 
 ### 1. Metode Array
