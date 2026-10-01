@@ -1,8 +1,4 @@
-# PABI - PHP Practice
-
-**Nama:** Danda Mawanti Simbolon  
-**NIM:** 43325027  
-**Prodi:** D3 Teknologi Komputer
+# PHP Practice
 
 ## Deskripsi
 
